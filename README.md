@@ -135,19 +135,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Demo
-
-Add screenshots or a GIF of your application here.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/chat.png
-```
-
----
-
 ## 🎓 Learning Outcomes
 
 Through this project, I learned how to:
